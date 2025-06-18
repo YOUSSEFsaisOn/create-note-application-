@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\data\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:data\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|c:\\users\\c-lab\\3d objects\\createnotes\\createnotes\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06BEC9E-5983-41C0-BEF7-4056FD7459A8}|CreateNotes.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:58:48.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Controllers\\MessagesController.cs",
+              "ViewState": "AgIAABoAAAAAiJmZmZkLwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:29:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Data\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Data\\NotesDbContext.cs",
+              "RelativeToolTip": "Data\\NotesDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAMDMzMzPjvwoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:22:16.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AgIAAAgAAACAMTMzMzMLwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:47:18.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\DTOs\\MessageDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\DTOs\\MessageDto.cs",
+              "RelativeToolTip": "DTOs\\MessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:47:14.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:29:27.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\DTOs\\NoteDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\DTOs\\NoteDto.cs",
+              "RelativeToolTip": "DTOs\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:29:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T15:02:07.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:29:35.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\C-LAB\\3D Objects\\createnotes\\CreateNotes\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AgIAABEAAAAAGDMzMzP3vyEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:40:39.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
